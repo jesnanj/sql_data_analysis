@@ -40,7 +40,7 @@ This project demonstrates practical SQL skills using the ClassicModels relationa
 ### 2️⃣ JOIN Analysis
 ![Join Output](screenshots/join_output.png)
 
-### 4️⃣ Subquery Result
+### 3️⃣ Subquery Result
 ![Subquery Output](screenshots/subquery_output.png)
 
 ### 📈 Conclusion
