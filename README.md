@@ -32,6 +32,17 @@ This project demonstrates practical SQL skills using the ClassicModels relationa
 - Query performance tuning using indexes
 - Creation of reusable analytical views
 
+## 📸 Project Output Screenshots
+
+### 1️⃣ Customer Order Analysis
+![Customer Orders](screenshots/customer_orders.png)
+
+### 2️⃣ JOIN Analysis
+![Join Output](screenshots/join_output.png)
+
+### 4️⃣ Subquery Result
+![Subquery Output](screenshots/subquery_output.png)
+
 ### 📈 Conclusion
 This project simulates real-world ecommerce data analysis and demonstrates the ability to work with structured databases, extract meaningful insights, and improve query performance using industry-standard SQL practices.
 This project simulates real-world ecommerce data analysis and demonstrates the ability to work with structured databases, extract meaningful insights, and improve query performance using industry-standard SQL practices.
